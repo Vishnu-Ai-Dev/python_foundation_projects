@@ -30,7 +30,7 @@ Established foundational application state management through a terminal-based i
 Transitioned to network-based data retrieval and algorithmic randomization:
 * Algorithmic string generation combining multiple data types and punctuation
 * REST API integration utilizing the `requests` library
-* JSON payload extraction, dictionary traversal, and list compilation
+* JSON payload extraction, dictionary traversal, and list compilations
 
 **Key Learning:** Successfully connected a local script to a live external database (Jikan REST API) to dynamically pull, clean, and utilize remote data.
 
@@ -58,6 +58,6 @@ This applied foundation enables progression to:
 * Integrating Scikit-learn for baseline predictive modeling
 * Transitioning from static CSV files to automated database queries
 * Implementing object-oriented principles within data analysis pipelines
-
+* Handling real world messy datas
 ---
 *Note: This repository represents learning progression, not production code. Implementations prioritize functional understanding and readability over extreme optimization.*
